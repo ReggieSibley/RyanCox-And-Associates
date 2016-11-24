@@ -1,0 +1,410 @@
+/*top navagation styling*/
+
+.leftPn {
+    text-align: right;
+    padding-top: 10px;
+}
+
+.companyLogo {
+    text-align: center;
+    margin-bottom: 0px;
+    text-decoration: underline ;
+    text-decoration-color: #FEB003;
+
+}
+
+.companyLogo2 {
+    text-align: center;
+    font-size: 10px;
+}
+
+.rightPn {
+    text-align: left;
+    padding-top: 10px;
+}
+
+
+/*website header information*/
+
+.headerBg {
+    background-image: url("../app/img/cox_header.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 50px;
+}
+/******************************/
+.companyMotto {
+    padding-top: 50px;
+    margin-bottom: 0px;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-family: 'Playfair Display', serif;
+}
+
+.companyMotto2 {
+    text-align: center;
+    font-size: 12px;
+    color: #FEB003;
+    padding-bottom: 60px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+
+/*consultation scheduling styling*/
+
+.consultationBg {
+    background-color: #131731;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 50px;
+    padding-bottom: 25px;
+}
+/******************************/
+.recordResultsImg { 
+    width: 50px;
+    float: left;
+}
+
+.recordResults {
+    padding-bottom: 10px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    color: #FEB003;
+    font-family: 'Playfair Display', serif;
+}
+
+.recordResults2 {
+    font-size: 8px;
+    color: #ffffff;
+}
+/******************************/
+.noRiskImg {
+    width: 50px;
+    float: left;
+}
+
+.noRisk {
+    padding-bottom: 10px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    margin-top: 10px;
+    color: #FEB003;
+    font-family: 'Playfair Display', serif;
+}
+
+.noRisk2 {
+    font-size: 8px;
+    color: #ffffff;
+}
+/******************************/
+.awardWinningImg {
+    width: 50px;
+    float: left;
+}
+
+.awardWinning {
+    padding-bottom: 10px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    margin-top: 10px;
+    color: #FEB003;
+    font-family: 'Playfair Display', serif;
+}
+
+.awardWinning2 {
+    font-size: 8px;
+    padding-bottom: 50px;
+    color: #ffffff;
+}
+/******************************/
+
+/* consultation sign up form*/
+
+.consultationForm {
+    background-color: #FEB003;
+    height: 375px;
+    width: 250px;
+    margin: auto;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.freeCon {
+    padding-top: 20px;
+    color: #ffffff;
+    text-align: left;
+    font-size: 15px;
+}
+
+.formContent {
+    padding-left: 20px;
+}
+
+.name,
+.email,
+.phone,
+.message {
+    text-align: left;
+    color: #ffffff;
+    width: 210px;
+    font-size: 10px;
+    margin-bottom: 8px;
+}
+
+.message {
+    padding-bottom: 30px;
+    margin-bottom: 0px;
+}
+/******************************/
+.submitForm {
+    background-color: #131731;
+    color: #ffffff;
+    width: 210px;
+    text-align: center;
+    padding: 10px;
+    font-size: 10px;
+}
+
+.submitForm:hover {
+    background-color: darkblue;
+    color: #ffffff;
+    width: 210px;
+    text-align: center;
+    padding: 10px;
+    font-size: 10px;
+}
+/******************************/
+
+/*Accident attorney paragraphs styling*/
+
+.attorneyBg {
+    background-color: #ffffff;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 50px;
+}
+/******************************/
+.attorneyTitle {
+    padding-top: 50px;
+    color: #FEB003;
+    margin-bottom: 30px;
+    padding-left: 20px;
+    font-family: 'Playfair Display', serif;
+}
+/******************************/
+.attorneyInfo {
+    line-height: 2.3;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.attorneyInfo2 {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+
+/*case results styling*/
+
+.caseResultsBg {
+    background-image: url("../app/img/cox_bkg.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 60px;
+}
+/******************************/
+.caseResults {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.caseResults .title {
+    text-align: center;
+    color: #FEB003;
+    font-size: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.caseResults h1 {
+    font-size: 30px;
+    margin-bottom: 0px;
+    color: #ffffff;
+    text-align: center;
+}
+
+.caseResults p {
+    font-size: 10px;
+    color: #FEB003;
+    padding-bottom: 20px;
+    text-align: center;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+
+/*customer feedback styling*/
+
+.stars {
+    padding-top: 50px;
+    width: 125px;
+    margin-bottom: 15px;
+}
+
+.customerFeedback {
+    text-align: center;
+    padding-bottom: 50px;
+    color: lightpurple;
+    font-size: 20px;
+}
+
+.customerName {
+    color: #FEB003;
+}
+
+
+/*website footer information styling*/
+
+.footerBg {
+    background-color: #131731;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 50px;
+}
+/******************************/
+.footer {
+    padding-bottom: 70px;
+}
+
+.footer h6 {
+    color: #FEB003;
+    text-align: center;
+}
+
+.footer p {
+    font-size: 10px;
+    text-align: center;
+    margin-bottom: 0px;
+    color: #ffffff;
+}
+
+.footer .directions {
+    font-size: 10px;
+    padding-top: 10px;
+    text-align: center;
+    color: #FEB003;
+    text-decoration: underline;
+}
+
+.footer .directions:hover {
+    font-size: 10px;
+    text-align: center;
+    color: #FEB003;
+    text-decoration: underline;
+    color: blue;
+}
+/******************************/
+.backToTop {
+    margin-left: -50px;
+    width: 200px;
+    margin-top: 30px;
+    background-color: #FEB003;
+    padding: 10px;
+    color: white;
+    font-size: 8px;
+    display: block;
+    text-align: center;
+}
+
+.backToTop:hover {
+    background-color: blue;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+
+/*All rights reserved*/
+
+footer {
+    font-size: 10px;
+    text-align: center;
+    background-color: #131731;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+}
+
+
+/*media querie for medium device*/
+
+@media (min-width: 768px) {
+    .fluidCon {
+        margin-left: 180px;
+    }
+}
+/******************************/
+@media (min-width: 992px) {
+    .consultationForm {
+        margin-top: -100px;
+        margin-left: 50px;
+        margin-bottom: -80px;
+    }
+
+    .consultationBg {
+        margin-bottom: -30px;
+    }
+    .attorneyTitle {
+        padding-top: 0px;
+    }
+    .backToTop {
+        margin: auto;
+        margin-top: 30px;
+    }
+    .headerBg {
+        height: 500px;
+    }
+    .companyMotto {
+        padding-top: 80px;
+        margin-bottom: 0px;
+        text-align: center;
+        color: white;
+        font-size: 40px;
+    }
+    .companyMotto2 {
+        text-align: center;
+        font-size: 18px;
+        color: #FEB003;
+        padding-bottom: 60px;
+    }
+}
+
+
+/*Media querie for desktop devices*/
+
+@media (min-width: 1200px) {
+    .consultationForm {
+        margin-left: 50px;
+        margin-bottom: -80px;
+        margin-top: -100px;
+    }
+     .consultationBg {
+        margin-bottom: -30px;
+    }
+    .fluidCon {
+        float: right;
+        font-size: 15px;
+    }
+    .attorneyBg {
+        padding-left: 250px;
+        text-align: left;
+        padding-right: 250px;
+    }
+    .attorneyTitle {
+        padding-left: 20px;
+        font-size: 50px;
+    }
+}
+
+
